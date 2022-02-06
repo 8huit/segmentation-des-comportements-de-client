@@ -19,4 +19,3 @@ Le projet présente les étapes de:
 └── README.md   
 
 Les notebooks ont été créés avec Jupyter Notebook (Python 3.8).
-L'api a été développée avec  python, fastapi et bootstrap puis dockerisée et déployée sur Heroku.
